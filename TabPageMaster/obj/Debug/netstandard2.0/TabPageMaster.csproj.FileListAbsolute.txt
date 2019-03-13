@@ -1,0 +1,13 @@
+/Users/aluno/Projects/TabPageMaster/TabPageMaster/bin/Debug/netstandard2.0/TabPageMaster.deps.json
+/Users/aluno/Projects/TabPageMaster/TabPageMaster/bin/Debug/netstandard2.0/TabPageMaster.dll
+/Users/aluno/Projects/TabPageMaster/TabPageMaster/bin/Debug/netstandard2.0/TabPageMaster.pdb
+/Users/aluno/Projects/TabPageMaster/TabPageMaster/obj/Debug/netstandard2.0/TabPageMaster.csprojAssemblyReference.cache
+/Users/aluno/Projects/TabPageMaster/TabPageMaster/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Projects/TabPageMaster/TabPageMaster/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Projects/TabPageMaster/TabPageMaster/obj/Debug/netstandard2.0/SecondPage.xaml.g.cs
+/Users/aluno/Projects/TabPageMaster/TabPageMaster/obj/Debug/netstandard2.0/TabPageMaster.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/TabPageMaster/TabPageMaster/obj/Debug/netstandard2.0/TabPageMaster.AssemblyInfoInputs.cache
+/Users/aluno/Projects/TabPageMaster/TabPageMaster/obj/Debug/netstandard2.0/TabPageMaster.AssemblyInfo.cs
+/Users/aluno/Projects/TabPageMaster/TabPageMaster/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Projects/TabPageMaster/TabPageMaster/obj/Debug/netstandard2.0/TabPageMaster.dll
+/Users/aluno/Projects/TabPageMaster/TabPageMaster/obj/Debug/netstandard2.0/TabPageMaster.pdb

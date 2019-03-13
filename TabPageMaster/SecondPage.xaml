@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TabPageMaster.SecondPage"
+             Title="SLIDER"
+             >
+    <StackLayout BackgroundColor="Gray">
+        
+        <Slider
+                VerticalOptions="CenterAndExpand"
+                ValueChanged="valor_slider"
+                x:Name="bola"
+                Minimum="0"
+                Maximum="360"
+        />
+        
+        
+        
+       <Label Text="0"
+               HorizontalOptions="Center"
+               TextColor="White"
+               VerticalOptions="CenterAndExpand"
+               FontSize="30"
+               x:Name="valor"/>
+        
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:TabPageMaster"
+             x:Class="TabPageMaster.MainPage"
+             Title="CONCATENAR"
+             >
+    <StackLayout>
+        <!-- Place new controls here -->
+        
+        <Entry
+                Placeholder="Digite uma palavra"
+                PlaceholderColor="Gray"
+                x:Name="Part1"
+               />
+        <Entry
+                Placeholder="Digite uma palavra"
+                PlaceholderColor="Gray"
+                x:Name="Part2"
+               />
+        <Label Text=""
+               FontSize="40"
+               FontAttributes="Bold"
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand" 
+               x:Name="textComplet"/>
+        <Button
+            Text="Concatenar"
+            Clicked="concat"
+               />
+    </StackLayout>
+</ContentPage>
